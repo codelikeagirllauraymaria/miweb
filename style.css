@@ -1,0 +1,76 @@
+body
+{
+    background-color: #ffb7ef
+}
+
+.frase{
+    color: #0a0a64;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    font-size: 4em
+}
+.btn btn-outline-primary{
+    background-color: #cf7fd6;
+}
+
+.carousel{ 
+    width:400px;
+    margin: auto;
+}
+.nav-link{
+    font-family: fantasy;
+    font-size: 2em;
+    text-align: center;
+}
+
+.frase{
+    font-family: fantasy;
+    text-align: center;
+}
+
+.foto{
+    width: 400px;
+    margin: auto;
+    
+}
+
+.card{
+    display:block;
+    margin:auto;
+}
+
+.frases{
+    font-family: fantasy;
+    font-size: 4em;
+    text-align: center
+}
+
+.frase2{
+    font-family: fantasy;
+    font-size: 4em;
+    text-align: center
+}
+
+.FRASE3{
+    font-family: fantasy;
+    font-size: 2em;
+
+}
+.frase4{
+    font-family: fantasy;
+    font-size: 4em;
+    text-align: center;
+}
+
+.cuadro{
+    color: #000000;
+    font-size: 2em;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: #e589f1;
+    margin-left: 30%;
+    margin-right: 30%;
+    border:5px;
+    border-style: solid;
+    border-color: #000000;
+}
